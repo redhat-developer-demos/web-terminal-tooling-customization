@@ -1,0 +1,3 @@
+host *
+  IdentityFile /etc/ssh/wto_ssh_key
+  StrictHostKeyChecking = no
